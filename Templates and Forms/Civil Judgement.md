@@ -1,32 +1,47 @@
-	Citation:       Roe v. Doe
-                	2024 DNSW 0
-	Date:		2024-01-01
-	Registry:	Warrigal, N.S.W.
+<p align="center"> 
+<img width=340 height =240 src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Coat_of_Arms_of_New_South_Wales.svg/1280px-Coat_of_Arms_of_New_South_Wales.svg.png"> 
+</p>
 
-<p align="center"><b><i>
-				IN THE DISTRICT COURT OF NEW SOUTH WALES
-</b></i>
+<p align="center"><b>
+JUDICIAL JUDGEMENT
+</b></p>
 
----
-
-BETWEEN:
-<p align="center"><b>		JANE DOE				</b>
-<p align="right">		PLAINTIFF
-<p>				AND:
-<p align="center"><b>		JOHN DOE			</b>
-<p align="right">		DEFENDANT
-
----
+<b>
 	
-<p align="center"><b>		
-				REASONS FOR JUDGEMENT
-<br>				OF THE
-<br>				HONOURABLE JUDGE _
+Medium Neutral Citation:
 
+ 	
+Hearing Dates: ## Month Year
+
+Date of Orders: ## Month Year
+
+Date of Decision: ## Month Year
+
+Jurisdiction: Civil
+
+Before: The Hon. Judge ______
+
+Catchwords:
+
+Legislation Cited:
+
+Case Law Cited:
+
+Texts Cited:
+
+```
+REPRESENTATION FOR THE PLAINTIFF:
+REPRESENTATION FOR THE DEFENDANT:
+```
+Publication Restrictions: Nil
 </b>
 
 ---
 
+<p align="center"><b>		REASONS OF JUDGEMENT				</b>
+
+---
+	
 **INTRODUCTION**
 
 [1] Text.
@@ -35,12 +50,11 @@ BETWEEN:
 
 [2] Text.
 
-**COURT ORDER**
+**ORDERS**
 
 [3] Text.
 
----
+<p align="center"> ********** </p>
 
-_
-	
-District Court Judge
+---
+<p align="right">		Decision last updated: ## Month Year
