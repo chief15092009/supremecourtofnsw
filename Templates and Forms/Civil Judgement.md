@@ -29,11 +29,20 @@ Case Law Cited:
 
 Texts Cited:
 
+Publication Restrictions: Nil
+
+---
+BETWEEN:
+<p align="center"><b>		JANE DOE				</b>
+<p align="right">		PLAINTIFF
+<p>				AND:
+<p align="center"><b>		JOHN DOE			</b>
+<p align="right">		DEFENDANT
+
 ```
 REPRESENTATION FOR THE PLAINTIFF:
 REPRESENTATION FOR THE DEFENDANT:
 ```
-Publication Restrictions: Nil
 </b>
 
 ---
