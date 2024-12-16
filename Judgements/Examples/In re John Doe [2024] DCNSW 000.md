@@ -10,11 +10,11 @@ JUDICIAL JUDGEMENT
 	
 Medium Neutral Citation: [2024] DCNSW 000
  	
-Hearing Dates: 14 Month Year
+Hearing Dates: 14 December 2024
 
-Date of Orders: 15 Month Year
+Date of Orders: 15 December 2024
 
-Date of Decision: 16 Month Year
+Date of Decision: 16 December 2024
 
 Jurisdiction: Application
 
