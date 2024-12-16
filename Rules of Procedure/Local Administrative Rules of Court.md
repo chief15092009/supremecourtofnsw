@@ -53,6 +53,10 @@ Except when an exception is allowed with good reason or by other means or leave,
 
 Warrants, whether they be a search or an arrest warrant shall last a period of sixty (60) days from the day that they are issued.
 
+### Court Policy 2024-08
+
+Any and all cases, against an official who holds a position above Department Director shall be referred to the Supreme Court's Trial Division.
+
 ---
 
-**REVISED DECEMER 15, 2024**
+**REVISED DECEMER 16, 2024**
