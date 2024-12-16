@@ -45,7 +45,7 @@ REPRESENTATION FOR THE APPLICANT (IF): Ms. L. Grant
 
 [1] On 14 December 2024, the Applicant, Jane Doe, filed an application with the District Court of New South Wales seeking the expungement and sealing of her criminal records. These records are related to a conviction under the Crimes Act 1900 (NSW) from September 2024, for a minor offense of theft.
 
-[2] The Applicant made a statement to the Court, which reads: "*I have fully rehabilitated myself since the offense, I have not committed any further crimes, and I have contributed positively to my community through volunteer work and steady employment. I request the Court to consider this application as part of my efforts to mo*ve on with my life and re-establish my standing in society.*"
+[2] The Applicant made a statement to the Court, which reads: "*I have fully rehabilitated myself since the offense, I have not committed any further crimes, and I have contributed positively to my community through volunteer work and steady employment. I request the Court to consider this application as part of my efforts to move on with my life and re-establish my standing in society.*"
 
 [3] The Crown did not contest this application, acknowledging that the Applicant has demonstrated genuine remorse and rehabilitation over the past months.
 
