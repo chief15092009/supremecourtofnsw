@@ -52,9 +52,10 @@ REPRESENTATION FOR THE APPLICANT (IF): Ms. L. Grant
 **ORDERS**
 
 [4] The Court orders the following counts to be sealed from the criminal record of the applicant:
-- [x] All.
+- [ ] All.
 - [ ] None.
-- [ ] Select counts:
+- [x] Select counts:
+	- Count 1: Theft, Section 134, Crimes Act 1900 (NSW), dated 15 September 2024
 	
 <p align="center"> ********** </p>
 
