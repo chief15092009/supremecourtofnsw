@@ -6,10 +6,10 @@ In an extraordinary circumstance, the court may allow the selection as a counsel
 
 ### Court Policy 2024-02
 
-In the Disctict Court of New South Wales, a medium citation shall be assigned to each case as follows
+In the Supreme Court of New South Wales, a medium citation shall be assigned to each case as follows
 ```
-Party v. Party, NSWDC #
-                      ^Number counting up from 1
+Party v. Party, SCNSW [2024] #
+                             ^ Number counting up from 1
 ```
 
 ### Court Policy 2024-03 
