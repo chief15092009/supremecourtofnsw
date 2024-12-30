@@ -8,7 +8,7 @@ JUDICIAL JUDGEMENT
 
 <b>
 	
-Medium Neutral Citation: [2024] DCNSW-000
+Medium Neutral Citation: [2024] SCNSW-000
 
 Hearing Dates: 14 December 2024
 
@@ -18,13 +18,13 @@ Date of Decision: 16 December 2024
 
 Jurisdiction: Criminal
 
-Before: The Hon. Chief Judge R. Reddington
+Before: The Hon. Justice R. Reddington
 
 Catchwords: CRIMINAL - ASSAULT - GUILT - SENTENCING
 
 Legislation Cited: Crimes Act 1900 (NSW), Section 59
 
-Case Law Cited: R v. Brown [2012] NSWCCA 23, R v. Smith [2007] NSWCA 138
+Case Law Cited: R v. Brown [2012] NSWCA 23, R v. Smith [2007] NSWCA 138
 
 Texts Cited: Criminal Law in New South Wales, 7th Edition, David E. Brown
 
