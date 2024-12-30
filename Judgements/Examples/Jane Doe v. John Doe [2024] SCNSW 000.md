@@ -8,7 +8,7 @@ JUDICIAL JUDGEMENT
 
 <b>
 	
-Medium Neutral Citation: [2024] DCNSW-000
+Medium Neutral Citation: [2024] SCNSW-000
 
  	
 Hearing Dates: 14 December 2024
@@ -19,7 +19,7 @@ Date of Decision: 16 December 2024
 
 Jurisdiction: Civil
 
-Before: The Hon. Chief Judge R. Reddington
+Before: The Hon. Justice R. Reddington
 
 Catchwords: CIVIL - TORT LAW - PERSONAL INJURY
 
@@ -65,7 +65,7 @@ REPRESENTATION FOR THE DEFENDANT: Mr. G Fretter
 
 **ORDERS**
 
-[5] The Defendant is to pay the Plaintiff the sum of one-hundred and fifty thousand Australian Dollars ($150,000) in damages for pain and suffering, medical expenses, and loss of earnings. The Defendant is also to bear the Plaintiff's costs of the proceedings.
+[5] The Defendant is to pay the Plaintiff the sum of one-hundred and fifty thousand Australian dollars ($150,000) in damages for pain and suffering, medical expenses, and loss of earnings. The Defendant is also to bear the Plaintiff's costs of the proceedings.
 
 [6] The Defendant is ordered to surrender his lisence and not operate a motor vehicle for six (6) months.
 
